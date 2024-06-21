@@ -1,4 +1,4 @@
-export const host = "http://localhost:5000";
+export const host = "https://lnm-q-1-2-a6ey.onrender.com";
 export const loginRoute = `${host}/api/auth/login`;
 export const registerRoute = `${host}/api/auth/register`;
 export const allPostsRoute = `${host}/api/post/allposts`;
